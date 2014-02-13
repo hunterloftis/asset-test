@@ -1,6 +1,6 @@
-@import "lib/message.css";
+@import "./lib/message";
 
 body {
-  background: '#eee';
+  background-image: url('images/logo.png');
 }
 
