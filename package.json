@@ -1,0 +1,21 @@
+{
+  "name": "asset-test",
+  "version": "0.0.1",
+  "description": "Testing rework-assets",
+  "main": "index.js",
+  "style": "index.css",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hunterloftis/asset-test"
+  },
+  "keywords": [
+    "rework",
+    "assets"
+  ],
+  "author": "Hunter Loftis <hunter@hunterloftis.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hunterloftis/asset-test/issues"
+  },
+  "homepage": "https://github.com/hunterloftis/asset-test"
+}
