@@ -1,3 +1,4 @@
-var message = require('./lib/message');
-
-message('Hello, world!');
+module.exports = {
+  message: require('./lib/message'),
+  warn: alert
+};
